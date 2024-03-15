@@ -821,6 +821,15 @@
     (uuid ff37b3eb-a2a4-4f40-911a-98203ec9cb15)
   )
 
+  (label "GND" (at 142.24 116.84 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid c68ca563-8a2c-4325-831f-59c29a32aff9)
+  )
+  (label "3V" (at 87.63 90.17 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid e6c911bc-d524-4453-9242-be727cf9d7d9)
+  )
+
   (symbol (lib_id "Connector:Conn_01x06_Socket") (at 185.42 78.74 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 11087385-bef7-491a-9218-fe6e0113e646)
